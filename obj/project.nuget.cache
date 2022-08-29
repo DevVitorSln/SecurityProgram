@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "sn1/IWVJ9lH4XhSrhm3lFeXDCNiW/bz0F4rO7A+S7hC8PaTsRDddoW8ayW1Uhl9uud2BDskrvaNEF3UPp1TjZg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\55319\\source\\repos\\SecurityProgram\\SecurityProgram\\SecurityProgram.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\55319\\.nuget\\packages\\litedb\\5.0.12\\litedb.5.0.12.nupkg.sha512",
+    "C:\\Users\\55319\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
